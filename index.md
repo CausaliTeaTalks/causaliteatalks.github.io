@@ -5,7 +5,7 @@ layout: default
 <!-- ![Banner](assets/ucl-logo.svg) -->
 
 # CausaliTea
-A fortnightly research talks given by faculty and students studying causal inference in the [UCL Statistical Science Department](https://www.ucl.ac.uk/statistics/). Presenters are welcome to share their early-stage research for feedback or discuss existing papers they find noteworthy.
+Fortnightly research talks given by faculty and students studying causal inference in the [UCL Statistical Science Department](https://www.ucl.ac.uk/statistics/). Presenters are welcome to share their early-stage research for feedback or discuss existing papers they find noteworthy.
 
 Topics of discussion include, but are not limited to, causal discovery, treatment effect estimation, counterfactual reasoning, policy evaluation, fairness in machine learning, and their applications across various domains such as healthcare, epidemiology, social sciences, and economics.
 
@@ -17,6 +17,9 @@ Each session is led by a presenter giving a short talk (<20 minutes) followed by
 
 | Date | Speaker | Paper |
 |----------|----------|----------|
+| June 5th, 2025 | Kai Teh | [Identifying causal effects in maximally oriented partially directed acyclic graphs](https://arxiv.org/abs/1910.02997) |
+| May 22nd, 2025 | Evangelos Dimitriou | [Enhanced Marginal Sensitivity Model and Bounds](https://arxiv.org/abs/2504.08301) |
+| May 8th, 2025 | Steve Shen | [Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/d738aefead8500f5aed667f0a7ca7b7c-Paper-Conference.pdf) |
 | April 10th, 2025 | Muneeb Aadil | [Removing Hidden Confounding by Experimental Grounding](https://arxiv.org/pdf/1810.11646) |
 
 
