@@ -5,13 +5,9 @@ layout: default
 <!-- ![Banner](assets/ucl-logo.svg) -->
 
 # CausaliTea
-A fortnightly reading group dedicated to discussing the latest advancements in causality research, both within the department and internationally. This forum brings together faculty and students from the [UCL Statistical Science Department](https://www.ucl.ac.uk/statistics/).
+A fortnightly research talks given by faculty and students studying causal inference in the [UCL Statistical Science Department](https://www.ucl.ac.uk/statistics/). Presenters are welcome to share their early-stage research for feedback or discuss existing papers they find noteworthy.
 
 Topics of discussion include, but are not limited to, causal discovery, treatment effect estimation, counterfactual reasoning, policy evaluation, fairness in machine learning, and their applications across various domains such as healthcare, epidemiology, social sciences, and economics.
-
-
-- **Time:** Fortnightly on Thursdays, 4:00pm.
-- **Location:** B07, 1-19 Torrington Place.
 
 If you'd like to stay updated, please subscribe to our mailing list by contacting Muneeb Aadil `(muneeb.aadil.24@ucl.ac.uk)`
 
