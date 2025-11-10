@@ -9,7 +9,13 @@ Fortnightly research talks given by faculty and students studying causal inferen
 
 Topics of discussion include, but are not limited to, causal discovery, treatment effect estimation, counterfactual reasoning, policy evaluation, fairness in machine learning, and their applications across various domains such as healthcare, epidemiology, social sciences, and economics.
 
-If you'd like to stay updated, please subscribe to our mailing list by contacting Muneeb Aadil `(muneeb.aadil.24@ucl.ac.uk)`
+**When**: Fortnightly on Tuesdays, 4pm.
+
+**Where**: Usually, UCL Stats. Dept. (1-19 Torrington Place, WC1E 7HB)
+
+For more details of the schedule, please visit this [excel sheet](https://liveuclac-my.sharepoint.com/:x:/g/personal/ucakadi_ucl_ac_uk/EXMOthJTeupFggQY9mkv_IcBjDT-IPKc6w6HdJX1MX7dCQ?e=igjm0p).
+
+If you'd like participate and/or stay updated, please contact Muneeb Aadil `(muneeb.aadil.24@ucl.ac.uk)` for the excel sheet access and subscription to the mailing list.  
 
 Each session is led by a presenter giving a short talk (<20 minutes) followed by Q/A and a discussion.
 
@@ -17,6 +23,7 @@ Each session is led by a presenter giving a short talk (<20 minutes) followed by
 
 | Date | Speaker | Paper |
 |----------|----------|----------|
+| Oct. 28th, 2025 | Sander Beckers | Causal Abstractions for the Social Sciences |
 | June 5th, 2025 | Kai Teh | [Identifying causal effects in maximally oriented partially directed acyclic graphs](https://arxiv.org/abs/1910.02997) |
 | May 22nd, 2025 | Evangelos Dimitriou | [Enhanced Marginal Sensitivity Model and Bounds](https://arxiv.org/abs/2504.08301) |
 | May 8th, 2025 | Steve Shen | [Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/d738aefead8500f5aed667f0a7ca7b7c-Paper-Conference.pdf) |
